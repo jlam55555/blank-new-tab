@@ -15,4 +15,5 @@ Ever wanted to get rid of the obtrusive Chrome newtab page that covers up your t
 
 ## See it in action
 ![Animation of extension in action](http://s33.postimg.org/xj5cqyy7z/ezgif_com_optimize.gif)
+
 (animated GIF created by [EZ GIF](http://www.ezgif.com))
