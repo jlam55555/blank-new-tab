@@ -13,6 +13,9 @@ Ever wanted to get rid of the obtrusive Chrome newtab page that covers up your t
     - Enter an image URL to use an image
     - Enter any other value to get the default image (shown above)
 
+## Usage
+- Drag the file from your desktop or a file explorer program onto the "Chrome Extensions" (`chrome://extensions`) page and let the magic happen! 
+
 ## See it in action
 ![Animation of extension in action](http://s33.postimg.org/xj5cqyy7z/ezgif_com_optimize.gif)
 
