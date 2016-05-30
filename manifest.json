@@ -5,6 +5,6 @@
   "description": "A simple replacement for the newtab page that allows you to choose the background.",
   "author": "Jonathan Lam <jlam55555@gmail.com>",
   "chrome_url_overrides": {
-    "newtab": "newtab.html"
+    "newtab": "src/newtab.html"
   }
 }
