@@ -1,4 +1,4 @@
-# blank-new-tab
+# simple-new-tab
 A simple replacement for the newtab page
 
 ![Default background](http://s33.postimg.cc/c5psswkov/default.png)
